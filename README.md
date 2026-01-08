@@ -2,7 +2,7 @@
 *Implementation of a No-Arbitrage pricing engine for Forward contracts.*
 
 ## 1. Presentation
-This project was developed during my second year at **Télécom SudParis** (ranked 20th in the 2027 promotion) as part of an independent study on Quantitative Finance. Originating from a small rural village in Southern France, I have always been driven by the challenge of mastering complex mathematical models and their practical applications in software engineering.
+This project was developed during my second year at **Télécom SudParis** as part of an independent study on Quantitative Finance. Originating from a small rural village in Southern France, I have always been driven by the challenge of mastering complex mathematical models and their practical applications in software engineering.
 
 The objective of this library is to implement the **Forward-Spot Parity** relationship and build a monitoring tool capable of detecting arbitrage opportunities using real-time market data.
 
