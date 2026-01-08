@@ -14,7 +14,7 @@ class ForwardPricer :
     """
     return np.exp(-r*tau)
   
-  def calculate_froward_price(self,spot,r,tau):
+  def calculate_forward_price(self,spot,r,tau):
     """
     Calcule le prix forward théorique F(t,T).
     - spot : prix actuel de l'actif sur le marché (St)
