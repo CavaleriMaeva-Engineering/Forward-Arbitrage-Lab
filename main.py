@@ -12,7 +12,7 @@ def main():
   #Récupération du prix réel
   try: 
     spot_price=loader.get_spot_price(ticker)
-    print(f"prix spot actuel (St) : {spot_price:.2f}€")
+    print(f"Prix spot actuel (St) : {spot_price:.2f}€")
   except Exception as e:
     print(f"Erreur lors de la récupération des données : {e}")
     return 
